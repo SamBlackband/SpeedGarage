@@ -1,3 +1,4 @@
 {
-  "one": "https://raw.githubusercontent.com/SamBlackband/SpeedGarage/main/samples/1.wav"
+  "_base": "https://github.com/SamBlackband/SpeedGarage/main/samples",
+  "one": "1.wav"
 }
